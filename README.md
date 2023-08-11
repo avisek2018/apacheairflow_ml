@@ -14,4 +14,4 @@ We'll be running Airflow on our local machine but Airflow works with distributed
 ## Install and Run Apache Airflow: 
 
 Please follow this article to install apache airflow in Windows.
-[How to Install Apache Airflow on Windows without Docker]([https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris/data](https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/)https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/)
+[How to Install Apache Airflow on Windows without Docker](https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/)

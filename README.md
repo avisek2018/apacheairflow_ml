@@ -11,3 +11,7 @@ The different components in Airflow come together to give us a nice workflow man
 
 We'll be running Airflow on our local machine but Airflow works with distributed systems as well such as Apache Spark, Kubernetes, AWS, and other cloud platforms.  Airflow is widely used in data-related tasks such as building, extract, transform, and load pipelines. Here I will show you a specific use case for the machine learning pipeline.
 
+## Install and Run Apache Airflow: 
+
+Please follow this article to install apache airflow in Windows.
+[How to Install Apache Airflow on Windows without Docker]([https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris/data](https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/)https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/)

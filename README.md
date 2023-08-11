@@ -7,6 +7,7 @@ Airflow is made up of several different components. The scheduler is what we use
 
 The different components in Airflow come together to give us a nice workflow manager. When we use Apache Airflow, we define all of our workflows as directed-acyclic graphs (DAGs). The nodes in these graphs are the actual tasks that need to be executed. The edges connecting the different task nodes define the dependencies in our workflow. Here is a typical DAG diagram for Airflow –
 
+![Sample DAG](images/Sample_Airflow_Dag.jpg?raw=true)
 
 We'll be running Airflow on our local machine but Airflow works with distributed systems as well such as Apache Spark, Kubernetes, AWS, and other cloud platforms.  Airflow is widely used in data-related tasks such as building, extract, transform, and load pipelines. Here I will show you a specific use case for the machine learning pipeline.
 

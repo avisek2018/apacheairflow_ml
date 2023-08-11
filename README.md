@@ -17,7 +17,7 @@ Please follow this article to install apache airflow in Windows.
 
 [How to Install Apache Airflow on Windows without Docker](https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/)
 
-An Airflow installation generally consists of the following components[from Airflow Documentation:
+An Airflow installation generally consists of the following components[from Airflow Documentation]:
  - A scheduler, which handles both triggering scheduled workflows, and submitting Tasks to the executor to run.
  - An executor, which handles running tasks. In the default Airflow installation, this runs everything inside the scheduler, but most production-suitable executors actually push task execution out to workers.
  - A webserver, which presents a handy user interface to inspect, trigger and debug the behaviour of DAGs and tasks.
